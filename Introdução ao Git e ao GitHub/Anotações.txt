@@ -1,0 +1,27 @@
+Comandos de terminal (WIN)
+
+- dir -> listar diretórios contidas na pasta atuas
+- cd -> change director/ mudança de diretório
+    cd / -> leva a base do diretório
+    cd <nome da pasta> -> entra na pasta
+    cd .. -> retrocede um caminho 
+- cls -> limpar terminal
+- tab -> autocompletar escrita
+- mkdir <nome> -> cria uma pasta
+- echo <texto> > <nomeArquivo.txt>
+- del <nomePasta> -> deleta arquivos da pasta
+- seta para cima -> navega nos comandos já utilizados
+- rmdir <nomePasta> -> deleta a pasta/repositorio
+
+
+LIN 
+
+- dir = ls
+- cd = cd
+- cls = clear (ctrl + l)
+- mkdir = mkdir
+- rmdir = rm
+- 
+- 
+- 
+- 
